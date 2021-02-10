@@ -1,2 +1,5 @@
-# Sudoku-GUI
-This is a sudoku solver using the backtracking algorithm which includes a graphical GUI.
+# Requirements
+pygame
+
+# Controls
+Select the boxes and type the numbers. To delete a number click DEL. Press ESC to exit. Click enter when you finish solving it and finally when it seems hard press SPACE and relax, it solves itself.
